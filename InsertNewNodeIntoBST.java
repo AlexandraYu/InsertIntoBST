@@ -1,3 +1,4 @@
+//here I do the easiest way--always adding the node as the end-node (either left or right child node of a root)
 public class TreeNode {
       int val;
       TreeNode left;
